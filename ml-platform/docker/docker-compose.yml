@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  ai-platform:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: air_quality_ai_platform
+    ports:
+      - "8000:8000"
+    environment:
+      - DB_HOST=84.247.173.145
+      - DB_PORT=3306
+      - DB_USER=iot
+      - DB_PASSWORD=5EMrfpz75WetmmRC
+      - DB_NAME=iot
+    restart: always

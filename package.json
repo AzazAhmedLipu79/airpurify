@@ -1,0 +1,49 @@
+{
+  "name": "air-quality-iot-backend",
+  "version": "1.0.0",
+  "description": "Production-quality IoT Air Quality Monitoring Platform Backend with Express, MySQL 8, JWT, Zod, Winston, WebSockets, and Machine Learning integration points.",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "jest --detectOpenHandles --forceExit --runInBand",
+    "test:watch": "jest --watch",
+    "db:setup": "node scripts/init-db.js"
+  },
+  "keywords": [
+    "iot",
+    "air-quality",
+    "express",
+    "mysql",
+    "telemetry",
+    "machine-learning",
+    "winston",
+    "zod",
+    "swagger"
+  ],
+  "author": "IoT Systems Architecture Team",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.2.0",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.9.7",
+    "node-cron": "^3.0.3",
+    "socket.io": "^4.7.5",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0",
+    "winston": "^3.13.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.0",
+    "supertest": "^7.0.0"
+  }
+}

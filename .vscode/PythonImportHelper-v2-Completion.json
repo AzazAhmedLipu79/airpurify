@@ -1,0 +1,1593 @@
+[
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "IsolationForest",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestRegressor",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "GradientBoostingRegressor",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestRegressor",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "GradientBoostingRegressor",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "database.db_loader",
+        "description": "database.db_loader",
+        "isExtraImport": true,
+        "detail": "database.db_loader",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "database.db_loader",
+        "description": "database.db_loader",
+        "isExtraImport": true,
+        "detail": "database.db_loader",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "database.db_loader",
+        "description": "database.db_loader",
+        "isExtraImport": true,
+        "detail": "database.db_loader",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "database.db_loader",
+        "description": "database.db_loader",
+        "isExtraImport": true,
+        "detail": "database.db_loader",
+        "documentation": {}
+    },
+    {
+        "label": "PredictorService",
+        "importPath": "prediction.predictor_service",
+        "description": "prediction.predictor_service",
+        "isExtraImport": true,
+        "detail": "prediction.predictor_service",
+        "documentation": {}
+    },
+    {
+        "label": "PredictorService",
+        "importPath": "prediction.predictor_service",
+        "description": "prediction.predictor_service",
+        "isExtraImport": true,
+        "detail": "prediction.predictor_service",
+        "documentation": {}
+    },
+    {
+        "label": "AnomalyDetectionEngine",
+        "importPath": "anomaly_detection.anomaly_engine",
+        "description": "anomaly_detection.anomaly_engine",
+        "isExtraImport": true,
+        "detail": "anomaly_detection.anomaly_engine",
+        "documentation": {}
+    },
+    {
+        "label": "AnomalyDetectionEngine",
+        "importPath": "anomaly_detection.anomaly_engine",
+        "description": "anomaly_detection.anomaly_engine",
+        "isExtraImport": true,
+        "detail": "anomaly_detection.anomaly_engine",
+        "documentation": {}
+    },
+    {
+        "label": "AnomalyDetectionEngine",
+        "importPath": "anomaly_detection.anomaly_engine",
+        "description": "anomaly_detection.anomaly_engine",
+        "isExtraImport": true,
+        "detail": "anomaly_detection.anomaly_engine",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingPipelineRunner",
+        "importPath": "training.pipeline_runner",
+        "description": "training.pipeline_runner",
+        "isExtraImport": true,
+        "detail": "training.pipeline_runner",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingPipelineRunner",
+        "importPath": "training.pipeline_runner",
+        "description": "training.pipeline_runner",
+        "isExtraImport": true,
+        "detail": "training.pipeline_runner",
+        "documentation": {}
+    },
+    {
+        "label": "ModelRegistry",
+        "importPath": "registry.model_registry",
+        "description": "registry.model_registry",
+        "isExtraImport": true,
+        "detail": "registry.model_registry",
+        "documentation": {}
+    },
+    {
+        "label": "ModelRegistry",
+        "importPath": "registry.model_registry",
+        "description": "registry.model_registry",
+        "isExtraImport": true,
+        "detail": "registry.model_registry",
+        "documentation": {}
+    },
+    {
+        "label": "ModelRegistry",
+        "importPath": "registry.model_registry",
+        "description": "registry.model_registry",
+        "isExtraImport": true,
+        "detail": "registry.model_registry",
+        "documentation": {}
+    },
+    {
+        "label": "ModelRegistry",
+        "importPath": "registry.model_registry",
+        "description": "registry.model_registry",
+        "isExtraImport": true,
+        "detail": "registry.model_registry",
+        "documentation": {}
+    },
+    {
+        "label": "ModelRegistry",
+        "importPath": "registry.model_registry",
+        "description": "registry.model_registry",
+        "isExtraImport": true,
+        "detail": "registry.model_registry",
+        "documentation": {}
+    },
+    {
+        "label": "PredictionDriftMonitor",
+        "importPath": "monitoring.drift_monitor",
+        "description": "monitoring.drift_monitor",
+        "isExtraImport": true,
+        "detail": "monitoring.drift_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "PredictionDriftMonitor",
+        "importPath": "monitoring.drift_monitor",
+        "description": "monitoring.drift_monitor",
+        "isExtraImport": true,
+        "detail": "monitoring.drift_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "ASHRAEComfortCalculator",
+        "importPath": "analytics.ashrae_comfort",
+        "description": "analytics.ashrae_comfort",
+        "isExtraImport": true,
+        "detail": "analytics.ashrae_comfort",
+        "documentation": {}
+    },
+    {
+        "label": "ASHRAEComfortCalculator",
+        "importPath": "analytics.ashrae_comfort",
+        "description": "analytics.ashrae_comfort",
+        "isExtraImport": true,
+        "detail": "analytics.ashrae_comfort",
+        "documentation": {}
+    },
+    {
+        "label": "IAQHealthScoreCalculator",
+        "importPath": "analytics.health_score",
+        "description": "analytics.health_score",
+        "isExtraImport": true,
+        "detail": "analytics.health_score",
+        "documentation": {}
+    },
+    {
+        "label": "IAQHealthScoreCalculator",
+        "importPath": "analytics.health_score",
+        "description": "analytics.health_score",
+        "isExtraImport": true,
+        "detail": "analytics.health_score",
+        "documentation": {}
+    },
+    {
+        "label": "MoldRiskTracker",
+        "importPath": "analytics.mold_risk",
+        "description": "analytics.mold_risk",
+        "isExtraImport": true,
+        "detail": "analytics.mold_risk",
+        "documentation": {}
+    },
+    {
+        "label": "MoldRiskTracker",
+        "importPath": "analytics.mold_risk",
+        "description": "analytics.mold_risk",
+        "isExtraImport": true,
+        "detail": "analytics.mold_risk",
+        "documentation": {}
+    },
+    {
+        "label": "PatternAnalyzer",
+        "importPath": "analytics.pattern_analyzer",
+        "description": "analytics.pattern_analyzer",
+        "isExtraImport": true,
+        "detail": "analytics.pattern_analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "PatternAnalyzer",
+        "importPath": "analytics.pattern_analyzer",
+        "description": "analytics.pattern_analyzer",
+        "isExtraImport": true,
+        "detail": "analytics.pattern_analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptiveActionEngine",
+        "importPath": "analytics.prescriptive_engine",
+        "description": "analytics.prescriptive_engine",
+        "isExtraImport": true,
+        "detail": "analytics.prescriptive_engine",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptiveActionEngine",
+        "importPath": "analytics.prescriptive_engine",
+        "description": "analytics.prescriptive_engine",
+        "isExtraImport": true,
+        "detail": "analytics.prescriptive_engine",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URI",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REPORTS_DIR",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MODELS_DIR",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URI",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URI",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URI",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "PARAM_GRIDS",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "FeatureEngineeringPipeline",
+        "importPath": "feature_engineering.feature_pipeline",
+        "description": "feature_engineering.feature_pipeline",
+        "isExtraImport": true,
+        "detail": "feature_engineering.feature_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "FeatureEngineeringPipeline",
+        "importPath": "feature_engineering.feature_pipeline",
+        "description": "feature_engineering.feature_pipeline",
+        "isExtraImport": true,
+        "detail": "feature_engineering.feature_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "FeatureEngineeringPipeline",
+        "importPath": "feature_engineering.feature_pipeline",
+        "description": "feature_engineering.feature_pipeline",
+        "isExtraImport": true,
+        "detail": "feature_engineering.feature_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "mean_absolute_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "SupervisedDatasetBuilder",
+        "importPath": "datasets.dataset_builder",
+        "description": "datasets.dataset_builder",
+        "isExtraImport": true,
+        "detail": "datasets.dataset_builder",
+        "documentation": {}
+    },
+    {
+        "label": "SupervisedDatasetBuilder",
+        "importPath": "datasets.dataset_builder",
+        "description": "datasets.dataset_builder",
+        "isExtraImport": true,
+        "detail": "datasets.dataset_builder",
+        "documentation": {}
+    },
+    {
+        "label": "TimeSeriesSplitter",
+        "importPath": "training.time_split",
+        "description": "training.time_split",
+        "isExtraImport": true,
+        "detail": "training.time_split",
+        "documentation": {}
+    },
+    {
+        "label": "TimeSeriesSplitter",
+        "importPath": "training.time_split",
+        "description": "training.time_split",
+        "isExtraImport": true,
+        "detail": "training.time_split",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainer",
+        "importPath": "training.trainers",
+        "description": "training.trainers",
+        "isExtraImport": true,
+        "detail": "training.trainers",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainer",
+        "importPath": "training.trainers",
+        "description": "training.trainers",
+        "isExtraImport": true,
+        "detail": "training.trainers",
+        "documentation": {}
+    },
+    {
+        "label": "MetricsEvaluator",
+        "importPath": "evaluation.metrics_evaluator",
+        "description": "evaluation.metrics_evaluator",
+        "isExtraImport": true,
+        "detail": "evaluation.metrics_evaluator",
+        "documentation": {}
+    },
+    {
+        "label": "MetricsEvaluator",
+        "importPath": "evaluation.metrics_evaluator",
+        "description": "evaluation.metrics_evaluator",
+        "isExtraImport": true,
+        "detail": "evaluation.metrics_evaluator",
+        "documentation": {}
+    },
+    {
+        "label": "RandomizedSearchCV",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "EDAReporter",
+        "importPath": "eda.eda_generator",
+        "description": "eda.eda_generator",
+        "isExtraImport": true,
+        "detail": "eda.eda_generator",
+        "documentation": {}
+    },
+    {
+        "label": "HyperparameterTuner",
+        "importPath": "training.hyperparameter_tuner",
+        "description": "training.hyperparameter_tuner",
+        "isExtraImport": true,
+        "detail": "training.hyperparameter_tuner",
+        "documentation": {}
+    },
+    {
+        "label": "LinearRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "ASHRAEComfortCalculator",
+        "kind": 6,
+        "importPath": "ml-platform.analytics.ashrae_comfort",
+        "description": "ml-platform.analytics.ashrae_comfort",
+        "peekOfCode": "class ASHRAEComfortCalculator:\n    \"\"\"\n    Implements ASHRAE Standard 55 Thermal Comfort Evaluation.\n    Calculates Predicted Mean Vote (PMV) and Predicted Percentage Dissatisfied (PPD)\n    approximations based on dry-bulb temperature (°C) and relative humidity (%).\n    \"\"\"\n    @staticmethod\n    def calculate_comfort(temp_c: float, humidity_pct: float) -> dict:\n        temp_c = float(temp_c) if temp_c is not None else 22.0\n        humidity_pct = float(humidity_pct) if humidity_pct is not None else 50.0",
+        "detail": "ml-platform.analytics.ashrae_comfort",
+        "documentation": {}
+    },
+    {
+        "label": "IAQHealthScoreCalculator",
+        "kind": 6,
+        "importPath": "ml-platform.analytics.health_score",
+        "description": "ml-platform.analytics.health_score",
+        "peekOfCode": "class IAQHealthScoreCalculator:\n    \"\"\"\n    Computes a composite 0-100 Indoor Air Quality Health Score weighted across\n    Gas Concentration (MQ-135), Relative Humidity (DHT11), and Thermal Bounds (DS18B20).\n    \"\"\"\n    @staticmethod\n    def calculate_score(gas_ppm: float, temp_c: float, humidity_pct: float) -> dict:\n        gas_ppm = float(gas_ppm) if gas_ppm is not None else 400.0\n        temp_c = float(temp_c) if temp_c is not None else 22.0\n        humidity_pct = float(humidity_pct) if humidity_pct is not None else 50.0",
+        "detail": "ml-platform.analytics.health_score",
+        "documentation": {}
+    },
+    {
+        "label": "MoldRiskTracker",
+        "kind": 6,
+        "importPath": "ml-platform.analytics.mold_risk",
+        "description": "ml-platform.analytics.mold_risk",
+        "peekOfCode": "class MoldRiskTracker:\n    \"\"\"\n    Evaluates sustained thermal and humidity exposure over a rolling 48-hour window\n    to compute the Mold Growth Spore Risk Index (0% - 100%).\n    \"\"\"\n    @staticmethod\n    def calculate_mold_risk(telemetry_df: pd.DataFrame) -> dict:\n        if telemetry_df is None or telemetry_df.empty:\n            return {\n                \"risk_percentage\": 15.0,",
+        "detail": "ml-platform.analytics.mold_risk",
+        "documentation": {}
+    },
+    {
+        "label": "PatternAnalyzer",
+        "kind": 6,
+        "importPath": "ml-platform.analytics.pattern_analyzer",
+        "description": "ml-platform.analytics.pattern_analyzer",
+        "peekOfCode": "class PatternAnalyzer:\n    \"\"\"\n    Performs time-of-day and day-of-week pattern recognition, peak pollution clustering,\n    multi-sensor thermal drift diagnostics, and stagnant air clearance analysis.\n    \"\"\"\n    @staticmethod\n    def analyze_patterns(df: pd.DataFrame) -> dict:\n        if df is None or df.empty or len(df) < 10:\n            return PatternAnalyzer._get_fallback_patterns()\n        time_col = \"time_bucket\" if \"time_bucket\" in df.columns else df.columns[0]",
+        "detail": "ml-platform.analytics.pattern_analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptiveActionEngine",
+        "kind": 6,
+        "importPath": "ml-platform.analytics.prescriptive_engine",
+        "description": "ml-platform.analytics.prescriptive_engine",
+        "peekOfCode": "class PrescriptiveActionEngine:\n    \"\"\"\n    Evaluates real-time IAQ metrics, ASHRAE thermal comfort, mold risk, and sensor health\n    to generate prioritized, actionable corrective guidance.\n    \"\"\"\n    @staticmethod\n    def generate_recommendations(\n        health_data: dict, comfort_data: dict, mold_data: dict, latest_telemetry: dict\n    ) -> list:\n        actions = []",
+        "detail": "ml-platform.analytics.prescriptive_engine",
+        "documentation": {}
+    },
+    {
+        "label": "AnomalyDetectionEngine",
+        "kind": 6,
+        "importPath": "ml-platform.anomaly_detection.anomaly_engine",
+        "description": "ml-platform.anomaly_detection.anomaly_engine",
+        "peekOfCode": "class AnomalyDetectionEngine:\n    def __init__(self):\n        self.iso_forest = IsolationForest(contamination=0.05, random_state=42)\n    def detect_anomalies(self, df: pd.DataFrame) -> list:\n        \"\"\"\n        Executes a 4-Layer Anomaly Detection Engine with natural language explanations.\n        \"\"\"\n        anomalies = []\n        if df.empty:\n            return anomalies",
+        "detail": "ml-platform.anomaly_detection.anomaly_engine",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.anomaly_detection.anomaly_engine",
+        "description": "ml-platform.anomaly_detection.anomaly_engine",
+        "peekOfCode": "logger = logging.getLogger(\"ml_platform.anomaly_engine\")\nclass AnomalyDetectionEngine:\n    def __init__(self):\n        self.iso_forest = IsolationForest(contamination=0.05, random_state=42)\n    def detect_anomalies(self, df: pd.DataFrame) -> list:\n        \"\"\"\n        Executes a 4-Layer Anomaly Detection Engine with natural language explanations.\n        \"\"\"\n        anomalies = []\n        if df.empty:",
+        "detail": "ml-platform.anomaly_detection.anomaly_engine",
+        "documentation": {}
+    },
+    {
+        "label": "PredictionRequest",
+        "kind": 6,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "class PredictionRequest(BaseModel):\n    device_id: Optional[int] = None\n    horizon_minutes: Optional[int] = 10\nclass TrainRequest(BaseModel):\n    tune_hyperparameters: Optional[bool] = False\n    horizon_steps: Optional[int] = 10\nclass PromoteRequest(BaseModel):\n    target_name: str\n    version: str\n@app.get(\"/\")",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "TrainRequest",
+        "kind": 6,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "class TrainRequest(BaseModel):\n    tune_hyperparameters: Optional[bool] = False\n    horizon_steps: Optional[int] = 10\nclass PromoteRequest(BaseModel):\n    target_name: str\n    version: str\n@app.get(\"/\")\ndef root():\n    return {\n        \"service\": \"Air Quality AI & Machine Learning Subsystem\",",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "PromoteRequest",
+        "kind": 6,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "class PromoteRequest(BaseModel):\n    target_name: str\n    version: str\n@app.get(\"/\")\ndef root():\n    return {\n        \"service\": \"Air Quality AI & Machine Learning Subsystem\",\n        \"status\": \"online\",\n        \"docs\": \"/docs\",\n        \"version\": \"1.0.0\",",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 2,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "def root():\n    return {\n        \"service\": \"Air Quality AI & Machine Learning Subsystem\",\n        \"status\": \"online\",\n        \"docs\": \"/docs\",\n        \"version\": \"1.0.0\",\n    }\n@app.get(\"/health\")\ndef health_check():\n    return {\"status\": \"ok\", \"service\": \"ml-platform\"}",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "health_check",
+        "kind": 2,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "def health_check():\n    return {\"status\": \"ok\", \"service\": \"ml-platform\"}\n@app.get(\"/analytics/overview\")\ndef get_analytics_overview(device_id: Optional[int] = Query(None)):\n    try:\n        raw_df = db_loader.load_historical_aggregates(limit=2880) # 48 hours\n        latest = raw_df.iloc[-1].to_dict() if not raw_df.empty else {}\n        gas_val = float(latest.get(\"mq135_avg\", 400.0))\n        temp_val = float(latest.get(\"temperature_ds18b20_avg\", 22.0))\n        hum_val = float(latest.get(\"humidity_dht11_avg\", 50.0))",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_analytics_overview",
+        "kind": 2,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "def get_analytics_overview(device_id: Optional[int] = Query(None)):\n    try:\n        raw_df = db_loader.load_historical_aggregates(limit=2880) # 48 hours\n        latest = raw_df.iloc[-1].to_dict() if not raw_df.empty else {}\n        gas_val = float(latest.get(\"mq135_avg\", 400.0))\n        temp_val = float(latest.get(\"temperature_ds18b20_avg\", 22.0))\n        hum_val = float(latest.get(\"humidity_dht11_avg\", 50.0))\n        health_data = IAQHealthScoreCalculator.calculate_score(gas_val, temp_val, hum_val)\n        comfort_data = ASHRAEComfortCalculator.calculate_comfort(temp_val, hum_val)\n        mold_data = MoldRiskTracker.calculate_mold_risk(raw_df)",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_analytics_patterns",
+        "kind": 2,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "def get_analytics_patterns(device_id: Optional[int] = Query(None)):\n    try:\n        raw_df = db_loader.load_historical_aggregates(limit=5000)\n        patterns_data = PatternAnalyzer.analyze_patterns(raw_df)\n        return {\"success\": True, \"data\": patterns_data}\n    except Exception as e:\n        logger.error(f\"Error extracting patterns: {str(e)}\")\n        raise HTTPException(status_code=500, detail=str(e))\n@app.get(\"/overview\")\ndef get_ai_overview(device_id: Optional[int] = Query(None), horizon_minutes: Optional[int] = Query(10)):",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_ai_overview",
+        "kind": 2,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "def get_ai_overview(device_id: Optional[int] = Query(None), horizon_minutes: Optional[int] = Query(10)):\n    try:\n        res = predictor_service.predict_overview_all(device_id=device_id, horizon_minutes=horizon_minutes)\n        return {\"success\": True, \"data\": res}\n    except Exception as e:\n        logger.error(f\"Error fetching AI overview: {str(e)}\")\n        raise HTTPException(status_code=500, detail=str(e))\n@app.get(\"/leaderboard\")\ndef get_model_leaderboard():\n    try:",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_model_leaderboard",
+        "kind": 2,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "def get_model_leaderboard():\n    try:\n        leaderboard = {\n            \"gas\": [\n                {\"rank\": 1, \"medal\": \"🥇\", \"name\": \"XGBoost Regressor\", \"algorithm\": \"xgboost\", \"mae\": 42.85, \"r2\": 0.4448, \"status\": \"Deployed (Production)\"},\n                {\"rank\": 2, \"medal\": \"🥈\", \"name\": \"Random Forest\", \"algorithm\": \"random_forest\", \"mae\": 47.12, \"r2\": 0.4120, \"status\": \"Candidate\"},\n                {\"rank\": 3, \"medal\": \"🥉\", \"name\": \"Linear Regression\", \"algorithm\": \"linear_regression\", \"mae\": 59.40, \"r2\": 0.2890, \"status\": \"Baseline\"}\n            ],\n            \"temperature\": [\n                {\"rank\": 1, \"medal\": \"🥇\", \"name\": \"XGBoost Regressor\", \"algorithm\": \"xgboost\", \"mae\": 0.347, \"r2\": 0.9631, \"status\": \"Deployed (Production)\"},",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "predict_temperature",
+        "kind": 2,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "def predict_temperature(req: PredictionRequest):\n    try:\n        res = predictor_service.predict(\n            target_name=\"temperature_ds18b20_avg\",\n            device_id=req.device_id,\n            horizon_minutes=req.horizon_minutes or 10,\n        )\n        return {\"success\": True, \"data\": res}\n    except Exception as e:\n        logger.error(f\"Error predicting temperature: {str(e)}\")",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "predict_humidity",
+        "kind": 2,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "def predict_humidity(req: PredictionRequest):\n    try:\n        res = predictor_service.predict(\n            target_name=\"humidity_dht11_avg\",\n            device_id=req.device_id,\n            horizon_minutes=req.horizon_minutes or 10,\n        )\n        return {\"success\": True, \"data\": res}\n    except Exception as e:\n        logger.error(f\"Error predicting humidity: {str(e)}\")",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "predict_gas",
+        "kind": 2,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "def predict_gas(req: PredictionRequest):\n    try:\n        res = predictor_service.predict(\n            target_name=\"mq135_avg\",\n            device_id=req.device_id,\n            horizon_minutes=req.horizon_minutes or 10,\n        )\n        return {\"success\": True, \"data\": res}\n    except Exception as e:\n        logger.error(f\"Error predicting gas: {str(e)}\")",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "detect_anomalies",
+        "kind": 2,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "def detect_anomalies(device_id: Optional[int] = Query(None)):\n    try:\n        raw_df = db_loader.load_recent_window(device_id=device_id, minutes=120)\n        anomalies = anomaly_engine.detect_anomalies(raw_df)\n        return {\"success\": True, \"count\": len(anomalies), \"data\": anomalies}\n    except Exception as e:\n        logger.error(f\"Error in anomaly detection: {str(e)}\")\n        raise HTTPException(status_code=500, detail=str(e))\n@app.get(\"/model-status\")\ndef model_status():",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "model_status",
+        "kind": 2,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "def model_status():\n    try:\n        targets = [\"temperature_ds18b20_avg\", \"humidity_dht11_avg\", \"mq135_avg\"]\n        statuses = {}\n        for target in targets:\n            _, meta = registry.load_latest_model(target)\n            statuses[target] = meta or {\"version\": \"none\", \"status\": \"untrained\"}\n        return {\"success\": True, \"data\": statuses}\n    except Exception as e:\n        raise HTTPException(status_code=500, detail=str(e))",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "model_history",
+        "kind": 2,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "def model_history(target: Optional[str] = Query(None)):\n    try:\n        history = registry.get_model_history(target_name=target)\n        return {\"success\": True, \"count\": len(history), \"data\": history}\n    except Exception as e:\n        logger.error(f\"Error fetching model history: {str(e)}\")\n        raise HTTPException(status_code=500, detail=str(e))\n@app.post(\"/train\")\ndef trigger_training(req: TrainRequest):\n    try:",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "trigger_training",
+        "kind": 2,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "def trigger_training(req: TrainRequest):\n    try:\n        results = {}\n        targets = [\"temperature_ds18b20_avg\", \"humidity_dht11_avg\", \"mq135_avg\"]\n        for target in targets:\n            res = pipeline_runner.run_pipeline(\n                target_name=target,\n                horizon_steps=req.horizon_steps or 10,\n                tune_hyperparams=req.tune_hyperparameters or False,\n            )",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "promote_model_version",
+        "kind": 2,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "def promote_model_version(req: PromoteRequest):\n    try:\n        success = registry.promote_model_version(req.target_name, req.version)\n        if not success:\n            raise HTTPException(status_code=400, detail=\"Failed to promote version. Artifacts missing.\")\n        return {\"success\": True, \"message\": f\"Successfully promoted model version '{req.version}' to production.\"}\n    except Exception as e:\n        logger.error(f\"Error promoting model version: {str(e)}\")\n        raise HTTPException(status_code=500, detail=str(e))\nif __name__ == \"__main__\":",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "logger = logging.getLogger(\"ml_platform_api\")\napp = FastAPI(\n    title=\"Indoor Air Quality AI & Machine Learning Platform\",\n    description=\"Production-grade AI forecasting, anomaly detection, model registry & drift monitoring API\",\n    version=\"1.0.0\",\n)\n# Services Singleton Initialization\ndb_loader = DataLoader()\npredictor_service = PredictorService(db_loader=db_loader)\nanomaly_engine = AnomalyDetectionEngine()",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "app = FastAPI(\n    title=\"Indoor Air Quality AI & Machine Learning Platform\",\n    description=\"Production-grade AI forecasting, anomaly detection, model registry & drift monitoring API\",\n    version=\"1.0.0\",\n)\n# Services Singleton Initialization\ndb_loader = DataLoader()\npredictor_service = PredictorService(db_loader=db_loader)\nanomaly_engine = AnomalyDetectionEngine()\npipeline_runner = TrainingPipelineRunner()",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "db_loader",
+        "kind": 5,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "db_loader = DataLoader()\npredictor_service = PredictorService(db_loader=db_loader)\nanomaly_engine = AnomalyDetectionEngine()\npipeline_runner = TrainingPipelineRunner()\nregistry = ModelRegistry()\ndrift_monitor = PredictionDriftMonitor()\n# Input Request Models\nclass PredictionRequest(BaseModel):\n    device_id: Optional[int] = None\n    horizon_minutes: Optional[int] = 10",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "predictor_service",
+        "kind": 5,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "predictor_service = PredictorService(db_loader=db_loader)\nanomaly_engine = AnomalyDetectionEngine()\npipeline_runner = TrainingPipelineRunner()\nregistry = ModelRegistry()\ndrift_monitor = PredictionDriftMonitor()\n# Input Request Models\nclass PredictionRequest(BaseModel):\n    device_id: Optional[int] = None\n    horizon_minutes: Optional[int] = 10\nclass TrainRequest(BaseModel):",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "anomaly_engine",
+        "kind": 5,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "anomaly_engine = AnomalyDetectionEngine()\npipeline_runner = TrainingPipelineRunner()\nregistry = ModelRegistry()\ndrift_monitor = PredictionDriftMonitor()\n# Input Request Models\nclass PredictionRequest(BaseModel):\n    device_id: Optional[int] = None\n    horizon_minutes: Optional[int] = 10\nclass TrainRequest(BaseModel):\n    tune_hyperparameters: Optional[bool] = False",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "pipeline_runner",
+        "kind": 5,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "pipeline_runner = TrainingPipelineRunner()\nregistry = ModelRegistry()\ndrift_monitor = PredictionDriftMonitor()\n# Input Request Models\nclass PredictionRequest(BaseModel):\n    device_id: Optional[int] = None\n    horizon_minutes: Optional[int] = 10\nclass TrainRequest(BaseModel):\n    tune_hyperparameters: Optional[bool] = False\n    horizon_steps: Optional[int] = 10",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "registry",
+        "kind": 5,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "registry = ModelRegistry()\ndrift_monitor = PredictionDriftMonitor()\n# Input Request Models\nclass PredictionRequest(BaseModel):\n    device_id: Optional[int] = None\n    horizon_minutes: Optional[int] = 10\nclass TrainRequest(BaseModel):\n    tune_hyperparameters: Optional[bool] = False\n    horizon_steps: Optional[int] = 10\nclass PromoteRequest(BaseModel):",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "drift_monitor",
+        "kind": 5,
+        "importPath": "ml-platform.api.main",
+        "description": "ml-platform.api.main",
+        "peekOfCode": "drift_monitor = PredictionDriftMonitor()\n# Input Request Models\nclass PredictionRequest(BaseModel):\n    device_id: Optional[int] = None\n    horizon_minutes: Optional[int] = 10\nclass TrainRequest(BaseModel):\n    tune_hyperparameters: Optional[bool] = False\n    horizon_steps: Optional[int] = 10\nclass PromoteRequest(BaseModel):\n    target_name: str",
+        "detail": "ml-platform.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "ml-platform.config.settings",
+        "description": "ml-platform.config.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Database Config\nDB_USER = os.getenv(\"DB_USER\", \"iot\")\nDB_PASSWORD = os.getenv(\"DB_PASSWORD\", \"5EMrfpz75WetmmRC\")\nDB_HOST = os.getenv(\"DB_HOST\", \"84.247.173.145\")\nDB_PORT = os.getenv(\"DB_PORT\", \"3306\")\nDB_NAME = os.getenv(\"DB_NAME\", \"iot\")\nDATABASE_URI = f\"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# AI Platform Paths\nMODELS_DIR = BASE_DIR / \"models\"",
+        "detail": "ml-platform.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DB_USER",
+        "kind": 5,
+        "importPath": "ml-platform.config.settings",
+        "description": "ml-platform.config.settings",
+        "peekOfCode": "DB_USER = os.getenv(\"DB_USER\", \"iot\")\nDB_PASSWORD = os.getenv(\"DB_PASSWORD\", \"5EMrfpz75WetmmRC\")\nDB_HOST = os.getenv(\"DB_HOST\", \"84.247.173.145\")\nDB_PORT = os.getenv(\"DB_PORT\", \"3306\")\nDB_NAME = os.getenv(\"DB_NAME\", \"iot\")\nDATABASE_URI = f\"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# AI Platform Paths\nMODELS_DIR = BASE_DIR / \"models\"\nREPORTS_DIR = BASE_DIR / \"reports\"\nMODELS_DIR.mkdir(parents=True, exist_ok=True)",
+        "detail": "ml-platform.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PASSWORD",
+        "kind": 5,
+        "importPath": "ml-platform.config.settings",
+        "description": "ml-platform.config.settings",
+        "peekOfCode": "DB_PASSWORD = os.getenv(\"DB_PASSWORD\", \"5EMrfpz75WetmmRC\")\nDB_HOST = os.getenv(\"DB_HOST\", \"84.247.173.145\")\nDB_PORT = os.getenv(\"DB_PORT\", \"3306\")\nDB_NAME = os.getenv(\"DB_NAME\", \"iot\")\nDATABASE_URI = f\"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# AI Platform Paths\nMODELS_DIR = BASE_DIR / \"models\"\nREPORTS_DIR = BASE_DIR / \"reports\"\nMODELS_DIR.mkdir(parents=True, exist_ok=True)\nREPORTS_DIR.mkdir(parents=True, exist_ok=True)",
+        "detail": "ml-platform.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DB_HOST",
+        "kind": 5,
+        "importPath": "ml-platform.config.settings",
+        "description": "ml-platform.config.settings",
+        "peekOfCode": "DB_HOST = os.getenv(\"DB_HOST\", \"84.247.173.145\")\nDB_PORT = os.getenv(\"DB_PORT\", \"3306\")\nDB_NAME = os.getenv(\"DB_NAME\", \"iot\")\nDATABASE_URI = f\"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# AI Platform Paths\nMODELS_DIR = BASE_DIR / \"models\"\nREPORTS_DIR = BASE_DIR / \"reports\"\nMODELS_DIR.mkdir(parents=True, exist_ok=True)\nREPORTS_DIR.mkdir(parents=True, exist_ok=True)\n# Forecasting Defaults",
+        "detail": "ml-platform.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PORT",
+        "kind": 5,
+        "importPath": "ml-platform.config.settings",
+        "description": "ml-platform.config.settings",
+        "peekOfCode": "DB_PORT = os.getenv(\"DB_PORT\", \"3306\")\nDB_NAME = os.getenv(\"DB_NAME\", \"iot\")\nDATABASE_URI = f\"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# AI Platform Paths\nMODELS_DIR = BASE_DIR / \"models\"\nREPORTS_DIR = BASE_DIR / \"reports\"\nMODELS_DIR.mkdir(parents=True, exist_ok=True)\nREPORTS_DIR.mkdir(parents=True, exist_ok=True)\n# Forecasting Defaults\nDEFAULT_PREDICTION_HORIZON_MINUTES = 10",
+        "detail": "ml-platform.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME",
+        "kind": 5,
+        "importPath": "ml-platform.config.settings",
+        "description": "ml-platform.config.settings",
+        "peekOfCode": "DB_NAME = os.getenv(\"DB_NAME\", \"iot\")\nDATABASE_URI = f\"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# AI Platform Paths\nMODELS_DIR = BASE_DIR / \"models\"\nREPORTS_DIR = BASE_DIR / \"reports\"\nMODELS_DIR.mkdir(parents=True, exist_ok=True)\nREPORTS_DIR.mkdir(parents=True, exist_ok=True)\n# Forecasting Defaults\nDEFAULT_PREDICTION_HORIZON_MINUTES = 10\nTARGET_METRICS = [\"temperature_ds18b20_avg\", \"humidity_dht11_avg\", \"mq135_avg\"]",
+        "detail": "ml-platform.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URI",
+        "kind": 5,
+        "importPath": "ml-platform.config.settings",
+        "description": "ml-platform.config.settings",
+        "peekOfCode": "DATABASE_URI = f\"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# AI Platform Paths\nMODELS_DIR = BASE_DIR / \"models\"\nREPORTS_DIR = BASE_DIR / \"reports\"\nMODELS_DIR.mkdir(parents=True, exist_ok=True)\nREPORTS_DIR.mkdir(parents=True, exist_ok=True)\n# Forecasting Defaults\nDEFAULT_PREDICTION_HORIZON_MINUTES = 10\nTARGET_METRICS = [\"temperature_ds18b20_avg\", \"humidity_dht11_avg\", \"mq135_avg\"]\n# Hyperparameter Search Spaces",
+        "detail": "ml-platform.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MODELS_DIR",
+        "kind": 5,
+        "importPath": "ml-platform.config.settings",
+        "description": "ml-platform.config.settings",
+        "peekOfCode": "MODELS_DIR = BASE_DIR / \"models\"\nREPORTS_DIR = BASE_DIR / \"reports\"\nMODELS_DIR.mkdir(parents=True, exist_ok=True)\nREPORTS_DIR.mkdir(parents=True, exist_ok=True)\n# Forecasting Defaults\nDEFAULT_PREDICTION_HORIZON_MINUTES = 10\nTARGET_METRICS = [\"temperature_ds18b20_avg\", \"humidity_dht11_avg\", \"mq135_avg\"]\n# Hyperparameter Search Spaces\nPARAM_GRIDS = {\n    \"random_forest\": {",
+        "detail": "ml-platform.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REPORTS_DIR",
+        "kind": 5,
+        "importPath": "ml-platform.config.settings",
+        "description": "ml-platform.config.settings",
+        "peekOfCode": "REPORTS_DIR = BASE_DIR / \"reports\"\nMODELS_DIR.mkdir(parents=True, exist_ok=True)\nREPORTS_DIR.mkdir(parents=True, exist_ok=True)\n# Forecasting Defaults\nDEFAULT_PREDICTION_HORIZON_MINUTES = 10\nTARGET_METRICS = [\"temperature_ds18b20_avg\", \"humidity_dht11_avg\", \"mq135_avg\"]\n# Hyperparameter Search Spaces\nPARAM_GRIDS = {\n    \"random_forest\": {\n        \"n_estimators\": [50, 100, 200],",
+        "detail": "ml-platform.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_PREDICTION_HORIZON_MINUTES",
+        "kind": 5,
+        "importPath": "ml-platform.config.settings",
+        "description": "ml-platform.config.settings",
+        "peekOfCode": "DEFAULT_PREDICTION_HORIZON_MINUTES = 10\nTARGET_METRICS = [\"temperature_ds18b20_avg\", \"humidity_dht11_avg\", \"mq135_avg\"]\n# Hyperparameter Search Spaces\nPARAM_GRIDS = {\n    \"random_forest\": {\n        \"n_estimators\": [50, 100, 200],\n        \"max_depth\": [5, 10, 15, None],\n        \"min_samples_split\": [2, 5, 10],\n    },\n    \"xgboost\": {",
+        "detail": "ml-platform.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TARGET_METRICS",
+        "kind": 5,
+        "importPath": "ml-platform.config.settings",
+        "description": "ml-platform.config.settings",
+        "peekOfCode": "TARGET_METRICS = [\"temperature_ds18b20_avg\", \"humidity_dht11_avg\", \"mq135_avg\"]\n# Hyperparameter Search Spaces\nPARAM_GRIDS = {\n    \"random_forest\": {\n        \"n_estimators\": [50, 100, 200],\n        \"max_depth\": [5, 10, 15, None],\n        \"min_samples_split\": [2, 5, 10],\n    },\n    \"xgboost\": {\n        \"n_estimators\": [50, 100, 200],",
+        "detail": "ml-platform.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "PARAM_GRIDS",
+        "kind": 5,
+        "importPath": "ml-platform.config.settings",
+        "description": "ml-platform.config.settings",
+        "peekOfCode": "PARAM_GRIDS = {\n    \"random_forest\": {\n        \"n_estimators\": [50, 100, 200],\n        \"max_depth\": [5, 10, 15, None],\n        \"min_samples_split\": [2, 5, 10],\n    },\n    \"xgboost\": {\n        \"n_estimators\": [50, 100, 200],\n        \"max_depth\": [3, 6, 9],\n        \"learning_rate\": [0.01, 0.05, 0.1],",
+        "detail": "ml-platform.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "kind": 6,
+        "importPath": "ml-platform.database.db_loader",
+        "description": "ml-platform.database.db_loader",
+        "peekOfCode": "class DataLoader:\n    def __init__(self, db_uri: str = DATABASE_URI):\n        self.engine = create_engine(db_uri, pool_pre_ping=True, pool_size=10, max_overflow=20)\n    def load_historical_aggregates(self, device_id: int = None, limit: int = 50000) -> pd.DataFrame:\n        \"\"\"\n        Extract historical 1-min telemetry aggregates from MySQL.\n        \"\"\"\n        query = \"\"\"\n            SELECT \n                id,",
+        "detail": "ml-platform.database.db_loader",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.database.db_loader",
+        "description": "ml-platform.database.db_loader",
+        "peekOfCode": "logger = logging.getLogger(\"ml_platform.db_loader\")\nlogging.basicConfig(level=logging.INFO)\nclass DataLoader:\n    def __init__(self, db_uri: str = DATABASE_URI):\n        self.engine = create_engine(db_uri, pool_pre_ping=True, pool_size=10, max_overflow=20)\n    def load_historical_aggregates(self, device_id: int = None, limit: int = 50000) -> pd.DataFrame:\n        \"\"\"\n        Extract historical 1-min telemetry aggregates from MySQL.\n        \"\"\"\n        query = \"\"\"",
+        "detail": "ml-platform.database.db_loader",
+        "documentation": {}
+    },
+    {
+        "label": "SupervisedDatasetBuilder",
+        "kind": 6,
+        "importPath": "ml-platform.datasets.dataset_builder",
+        "description": "ml-platform.datasets.dataset_builder",
+        "peekOfCode": "class SupervisedDatasetBuilder:\n    def __init__(self, feature_pipeline: FeatureEngineeringPipeline = None):\n        self.feature_pipeline = feature_pipeline or FeatureEngineeringPipeline()\n    def build_dataset(\n        self,\n        raw_df: pd.DataFrame,\n        target_col: str = \"mq135_avg\",\n        horizon_steps: int = 10,  # 10 minutes ahead\n    ):\n        \"\"\"",
+        "detail": "ml-platform.datasets.dataset_builder",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.datasets.dataset_builder",
+        "description": "ml-platform.datasets.dataset_builder",
+        "peekOfCode": "logger = logging.getLogger(\"ml_platform.dataset_builder\")\nclass SupervisedDatasetBuilder:\n    def __init__(self, feature_pipeline: FeatureEngineeringPipeline = None):\n        self.feature_pipeline = feature_pipeline or FeatureEngineeringPipeline()\n    def build_dataset(\n        self,\n        raw_df: pd.DataFrame,\n        target_col: str = \"mq135_avg\",\n        horizon_steps: int = 10,  # 10 minutes ahead\n    ):",
+        "detail": "ml-platform.datasets.dataset_builder",
+        "documentation": {}
+    },
+    {
+        "label": "EDAReporter",
+        "kind": 6,
+        "importPath": "ml-platform.eda.eda_generator",
+        "description": "ml-platform.eda.eda_generator",
+        "peekOfCode": "class EDAReporter:\n    def __init__(self, reports_dir=REPORTS_DIR):\n        self.reports_dir = reports_dir\n    def generate_report(self, df: pd.DataFrame, filename: str = \"eda_report.html\") -> str:\n        \"\"\"\n        Generates a comprehensive EDA HTML Report.\n        \"\"\"\n        if df.empty:\n            logger.warning(\"Empty DataFrame provided for EDA report.\")\n            return \"\"",
+        "detail": "ml-platform.eda.eda_generator",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.eda.eda_generator",
+        "description": "ml-platform.eda.eda_generator",
+        "peekOfCode": "logger = logging.getLogger(\"ml_platform.eda\")\nclass EDAReporter:\n    def __init__(self, reports_dir=REPORTS_DIR):\n        self.reports_dir = reports_dir\n    def generate_report(self, df: pd.DataFrame, filename: str = \"eda_report.html\") -> str:\n        \"\"\"\n        Generates a comprehensive EDA HTML Report.\n        \"\"\"\n        if df.empty:\n            logger.warning(\"Empty DataFrame provided for EDA report.\")",
+        "detail": "ml-platform.eda.eda_generator",
+        "documentation": {}
+    },
+    {
+        "label": "MetricsEvaluator",
+        "kind": 6,
+        "importPath": "ml-platform.evaluation.metrics_evaluator",
+        "description": "ml-platform.evaluation.metrics_evaluator",
+        "peekOfCode": "class MetricsEvaluator:\n    def __init__(self):\n        pass\n    def evaluate(self, y_true: pd.Series, y_pred: np.ndarray) -> dict:\n        \"\"\"\n        Calculates MAE, RMSE, R², and MAPE metrics.\n        \"\"\"\n        mae = float(mean_absolute_error(y_true, y_pred))\n        rmse = float(np.sqrt(mean_squared_error(y_true, y_pred)))\n        r2 = float(r2_score(y_true, y_pred))",
+        "detail": "ml-platform.evaluation.metrics_evaluator",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.evaluation.metrics_evaluator",
+        "description": "ml-platform.evaluation.metrics_evaluator",
+        "peekOfCode": "logger = logging.getLogger(\"ml_platform.evaluation\")\nclass MetricsEvaluator:\n    def __init__(self):\n        pass\n    def evaluate(self, y_true: pd.Series, y_pred: np.ndarray) -> dict:\n        \"\"\"\n        Calculates MAE, RMSE, R², and MAPE metrics.\n        \"\"\"\n        mae = float(mean_absolute_error(y_true, y_pred))\n        rmse = float(np.sqrt(mean_squared_error(y_true, y_pred)))",
+        "detail": "ml-platform.evaluation.metrics_evaluator",
+        "documentation": {}
+    },
+    {
+        "label": "FeatureEngineeringPipeline",
+        "kind": 6,
+        "importPath": "ml-platform.feature_engineering.feature_pipeline",
+        "description": "ml-platform.feature_engineering.feature_pipeline",
+        "peekOfCode": "class FeatureEngineeringPipeline:\n    def __init__(self):\n        pass\n    def generate_features(self, df: pd.DataFrame) -> pd.DataFrame:\n        \"\"\"\n        Dynamically generates advanced ML features from 1-min telemetry aggregates.\n        \"\"\"\n        if df.empty:\n            return df\n        df = df.sort_values(\"time_bucket\").copy()",
+        "detail": "ml-platform.feature_engineering.feature_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.feature_engineering.feature_pipeline",
+        "description": "ml-platform.feature_engineering.feature_pipeline",
+        "peekOfCode": "logger = logging.getLogger(\"ml_platform.feature_pipeline\")\nclass FeatureEngineeringPipeline:\n    def __init__(self):\n        pass\n    def generate_features(self, df: pd.DataFrame) -> pd.DataFrame:\n        \"\"\"\n        Dynamically generates advanced ML features from 1-min telemetry aggregates.\n        \"\"\"\n        if df.empty:\n            return df",
+        "detail": "ml-platform.feature_engineering.feature_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "PredictionDriftMonitor",
+        "kind": 6,
+        "importPath": "ml-platform.monitoring.drift_monitor",
+        "description": "ml-platform.monitoring.drift_monitor",
+        "peekOfCode": "class PredictionDriftMonitor:\n    def __init__(self):\n        self.history = []\n    def log_prediction(self, prediction_id: str, target_name: str, predicted_val: float, timestamp: str, model_version: str):\n        \"\"\"\n        Logs a prediction for future evaluation against actual ground truth.\n        \"\"\"\n        record = {\n            \"prediction_id\": prediction_id,\n            \"target_name\": target_name,",
+        "detail": "ml-platform.monitoring.drift_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.monitoring.drift_monitor",
+        "description": "ml-platform.monitoring.drift_monitor",
+        "peekOfCode": "logger = logging.getLogger(\"ml_platform.drift_monitor\")\nclass PredictionDriftMonitor:\n    def __init__(self):\n        self.history = []\n    def log_prediction(self, prediction_id: str, target_name: str, predicted_val: float, timestamp: str, model_version: str):\n        \"\"\"\n        Logs a prediction for future evaluation against actual ground truth.\n        \"\"\"\n        record = {\n            \"prediction_id\": prediction_id,",
+        "detail": "ml-platform.monitoring.drift_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "PredictorService",
+        "kind": 6,
+        "importPath": "ml-platform.prediction.predictor_service",
+        "description": "ml-platform.prediction.predictor_service",
+        "peekOfCode": "class PredictorService:\n    def __init__(\n        self,\n        db_loader: DataLoader = None,\n        feature_pipeline: FeatureEngineeringPipeline = None,\n        registry: ModelRegistry = None,\n    ):\n        self.db_loader = db_loader or DataLoader()\n        self.feature_pipeline = feature_pipeline or FeatureEngineeringPipeline()\n        self.registry = registry or ModelRegistry()",
+        "detail": "ml-platform.prediction.predictor_service",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.prediction.predictor_service",
+        "description": "ml-platform.prediction.predictor_service",
+        "peekOfCode": "logger = logging.getLogger(\"ml_platform.predictor_service\")\nclass PredictorService:\n    def __init__(\n        self,\n        db_loader: DataLoader = None,\n        feature_pipeline: FeatureEngineeringPipeline = None,\n        registry: ModelRegistry = None,\n    ):\n        self.db_loader = db_loader or DataLoader()\n        self.feature_pipeline = feature_pipeline or FeatureEngineeringPipeline()",
+        "detail": "ml-platform.prediction.predictor_service",
+        "documentation": {}
+    },
+    {
+        "label": "ModelRegistry",
+        "kind": 6,
+        "importPath": "ml-platform.registry.model_registry",
+        "description": "ml-platform.registry.model_registry",
+        "peekOfCode": "class ModelRegistry:\n    def __init__(self, models_dir: Path = MODELS_DIR):\n        self.models_dir = Path(models_dir)\n        self.models_dir.mkdir(parents=True, exist_ok=True)\n    def save_model(\n        self,\n        model,\n        target_name: str,\n        horizon_minutes: int,\n        metrics: dict,",
+        "detail": "ml-platform.registry.model_registry",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.registry.model_registry",
+        "description": "ml-platform.registry.model_registry",
+        "peekOfCode": "logger = logging.getLogger(\"ml_platform.registry\")\nclass ModelRegistry:\n    def __init__(self, models_dir: Path = MODELS_DIR):\n        self.models_dir = Path(models_dir)\n        self.models_dir.mkdir(parents=True, exist_ok=True)\n    def save_model(\n        self,\n        model,\n        target_name: str,\n        horizon_minutes: int,",
+        "detail": "ml-platform.registry.model_registry",
+        "documentation": {}
+    },
+    {
+        "label": "cleanup_database_to_single_device",
+        "kind": 2,
+        "importPath": "ml-platform.scripts.cleanup_single_device",
+        "description": "ml-platform.scripts.cleanup_single_device",
+        "peekOfCode": "def cleanup_database_to_single_device():\n    engine = create_engine(DATABASE_URI, pool_pre_ping=True)\n    logger.info(f\"Connecting to MySQL database at {engine.url.host}...\")\n    with engine.connect() as conn:\n        # Disable foreign key checks temporarily\n        conn.execute(text(\"SET FOREIGN_KEY_CHECKS = 0;\"))\n        # 1. Clear devices table and insert exactly 1 primary device\n        logger.info(\"Cleaning up devices table to keep only 1 single primary device...\")\n        conn.execute(text(\"TRUNCATE TABLE devices;\"))\n        insert_single_device_sql = \"\"\"",
+        "detail": "ml-platform.scripts.cleanup_single_device",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.scripts.cleanup_single_device",
+        "description": "ml-platform.scripts.cleanup_single_device",
+        "peekOfCode": "logger = logging.getLogger(\"single_device_cleanup\")\ndef cleanup_database_to_single_device():\n    engine = create_engine(DATABASE_URI, pool_pre_ping=True)\n    logger.info(f\"Connecting to MySQL database at {engine.url.host}...\")\n    with engine.connect() as conn:\n        # Disable foreign key checks temporarily\n        conn.execute(text(\"SET FOREIGN_KEY_CHECKS = 0;\"))\n        # 1. Clear devices table and insert exactly 1 primary device\n        logger.info(\"Cleaning up devices table to keep only 1 single primary device...\")\n        conn.execute(text(\"TRUNCATE TABLE devices;\"))",
+        "detail": "ml-platform.scripts.cleanup_single_device",
+        "documentation": {}
+    },
+    {
+        "label": "generate_and_insert_1m_telemetry",
+        "kind": 2,
+        "importPath": "ml-platform.scripts.seed_1m_raw_telemetry",
+        "description": "ml-platform.scripts.seed_1m_raw_telemetry",
+        "peekOfCode": "def generate_and_insert_1m_telemetry():\n    engine = create_engine(DATABASE_URI, pool_pre_ping=True)\n    logger.info(f\"Connecting to MySQL database at {engine.url.host}...\")\n    total_metrics_target = 1000000\n    num_timestamps = 200000 # 200,000 timestamps * 5 metrics = 1,000,000 rows\n    logger.info(f\"Generating {num_timestamps} timestamps x 5 metrics = {total_metrics_target} raw telemetry rows...\")\n    end_time = pd.Timestamp.now().floor(\"s\")\n    start_time = end_time - pd.Timedelta(seconds=num_timestamps * 3 - 3)\n    timestamps = pd.date_range(start=start_time, end=end_time, periods=num_timestamps)\n    sensor_specs = [",
+        "detail": "ml-platform.scripts.seed_1m_raw_telemetry",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.scripts.seed_1m_raw_telemetry",
+        "description": "ml-platform.scripts.seed_1m_raw_telemetry",
+        "peekOfCode": "logger = logging.getLogger(\"seed_1m_raw\")\ndef generate_and_insert_1m_telemetry():\n    engine = create_engine(DATABASE_URI, pool_pre_ping=True)\n    logger.info(f\"Connecting to MySQL database at {engine.url.host}...\")\n    total_metrics_target = 1000000\n    num_timestamps = 200000 # 200,000 timestamps * 5 metrics = 1,000,000 rows\n    logger.info(f\"Generating {num_timestamps} timestamps x 5 metrics = {total_metrics_target} raw telemetry rows...\")\n    end_time = pd.Timestamp.now().floor(\"s\")\n    start_time = end_time - pd.Timedelta(seconds=num_timestamps * 3 - 3)\n    timestamps = pd.date_range(start=start_time, end=end_time, periods=num_timestamps)",
+        "detail": "ml-platform.scripts.seed_1m_raw_telemetry",
+        "documentation": {}
+    },
+    {
+        "label": "generate_versatile_data",
+        "kind": 2,
+        "importPath": "ml-platform.scripts.seed_versatile_telemetry",
+        "description": "ml-platform.scripts.seed_versatile_telemetry",
+        "peekOfCode": "def generate_versatile_data(num_records: int = 10000) -> pd.DataFrame:\n    \"\"\"\n    Generates 10,000 highly realistic, versatile telemetry aggregate records\n    over ~7 days with diurnal cycles, morning HVAC surges, thermal sensor offsets,\n    and intermittent realistic environmental anomalies.\n    \"\"\"\n    logger.info(f\"Generating {num_records} versatile telemetry aggregate records...\")\n    end_time = pd.Timestamp.now().floor(\"min\")\n    start_time = end_time - pd.Timedelta(minutes=num_records - 1)\n    timestamps = pd.date_range(start=start_time, end=end_time, freq=\"1min\")",
+        "detail": "ml-platform.scripts.seed_versatile_telemetry",
+        "documentation": {}
+    },
+    {
+        "label": "seed_database",
+        "kind": 2,
+        "importPath": "ml-platform.scripts.seed_versatile_telemetry",
+        "description": "ml-platform.scripts.seed_versatile_telemetry",
+        "peekOfCode": "def seed_database(num_records: int = 10000):\n    engine = create_engine(DATABASE_URI, pool_pre_ping=True)\n    df = generate_versatile_data(num_records=num_records)\n    logger.info(f\"Connecting to MySQL database at {engine.url.host}...\")\n    with engine.connect() as conn:\n        logger.info(\"Clearing existing sample data in telemetry_1min...\")\n        conn.execute(text(\"TRUNCATE TABLE telemetry_1min;\"))\n        conn.commit()\n        logger.info(f\"Inserting {len(df)} versatile 1-minute aggregate records in batch...\")\n        df.to_sql(\"telemetry_1min\", con=conn, if_exists=\"append\", index=False, chunksize=2500)",
+        "detail": "ml-platform.scripts.seed_versatile_telemetry",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.scripts.seed_versatile_telemetry",
+        "description": "ml-platform.scripts.seed_versatile_telemetry",
+        "peekOfCode": "logger = logging.getLogger(\"seed_telemetry\")\ndef generate_versatile_data(num_records: int = 10000) -> pd.DataFrame:\n    \"\"\"\n    Generates 10,000 highly realistic, versatile telemetry aggregate records\n    over ~7 days with diurnal cycles, morning HVAC surges, thermal sensor offsets,\n    and intermittent realistic environmental anomalies.\n    \"\"\"\n    logger.info(f\"Generating {num_records} versatile telemetry aggregate records...\")\n    end_time = pd.Timestamp.now().floor(\"min\")\n    start_time = end_time - pd.Timedelta(minutes=num_records - 1)",
+        "detail": "ml-platform.scripts.seed_versatile_telemetry",
+        "documentation": {}
+    },
+    {
+        "label": "test_ashrae_comfort_calculator",
+        "kind": 2,
+        "importPath": "ml-platform.tests.test_analytics",
+        "description": "ml-platform.tests.test_analytics",
+        "peekOfCode": "def test_ashrae_comfort_calculator():\n    res = ASHRAEComfortCalculator.calculate_comfort(22.0, 50.0)\n    assert res[\"status\"] == \"Optimal Comfort\"\n    assert -0.5 <= res[\"pmv\"] <= 0.5\n    assert res[\"ppd_percentage\"] <= 10.0\ndef test_health_score_calculator():\n    res_pristine = IAQHealthScoreCalculator.calculate_score(380.0, 22.0, 50.0)\n    assert res_pristine[\"score\"] == 100.0\n    assert res_pristine[\"status\"] == \"Excellent\"\n    res_severe = IAQHealthScoreCalculator.calculate_score(1800.0, 32.0, 85.0)",
+        "detail": "ml-platform.tests.test_analytics",
+        "documentation": {}
+    },
+    {
+        "label": "test_health_score_calculator",
+        "kind": 2,
+        "importPath": "ml-platform.tests.test_analytics",
+        "description": "ml-platform.tests.test_analytics",
+        "peekOfCode": "def test_health_score_calculator():\n    res_pristine = IAQHealthScoreCalculator.calculate_score(380.0, 22.0, 50.0)\n    assert res_pristine[\"score\"] == 100.0\n    assert res_pristine[\"status\"] == \"Excellent\"\n    res_severe = IAQHealthScoreCalculator.calculate_score(1800.0, 32.0, 85.0)\n    assert res_severe[\"score\"] < 60.0\n    assert res_severe[\"badge\"] == \"critical\"\ndef test_mold_risk_tracker():\n    timestamps = pd.date_range(end=pd.Timestamp.now(), periods=2880, freq=\"1min\")\n    df = pd.DataFrame({",
+        "detail": "ml-platform.tests.test_analytics",
+        "documentation": {}
+    },
+    {
+        "label": "test_mold_risk_tracker",
+        "kind": 2,
+        "importPath": "ml-platform.tests.test_analytics",
+        "description": "ml-platform.tests.test_analytics",
+        "peekOfCode": "def test_mold_risk_tracker():\n    timestamps = pd.date_range(end=pd.Timestamp.now(), periods=2880, freq=\"1min\")\n    df = pd.DataFrame({\n        \"time_bucket\": timestamps,\n        \"humidity_dht11_avg\": [75.0 if i > 1000 else 50.0 for i in range(2880)],\n        \"temperature_ds18b20_avg\": 24.0,\n    })\n    res = MoldRiskTracker.calculate_mold_risk(df)\n    assert res[\"high_humidity_hours\"] > 0\n    assert \"risk_percentage\" in res",
+        "detail": "ml-platform.tests.test_analytics",
+        "documentation": {}
+    },
+    {
+        "label": "test_pattern_analyzer",
+        "kind": 2,
+        "importPath": "ml-platform.tests.test_analytics",
+        "description": "ml-platform.tests.test_analytics",
+        "peekOfCode": "def test_pattern_analyzer():\n    timestamps = pd.date_range(end=pd.Timestamp.now(), periods=500, freq=\"1min\")\n    df = pd.DataFrame({\n        \"time_bucket\": timestamps,\n        \"mq135_avg\": 450.0,\n        \"humidity_dht11_avg\": 50.0,\n        \"temperature_ds18b20_avg\": 22.0,\n    })\n    res = PatternAnalyzer.analyze_patterns(df)\n    assert \"total_patterns_detected\" in res",
+        "detail": "ml-platform.tests.test_analytics",
+        "documentation": {}
+    },
+    {
+        "label": "test_prescriptive_engine",
+        "kind": 2,
+        "importPath": "ml-platform.tests.test_analytics",
+        "description": "ml-platform.tests.test_analytics",
+        "peekOfCode": "def test_prescriptive_engine():\n    health = IAQHealthScoreCalculator.calculate_score(1500.0, 28.0, 78.0)\n    comfort = ASHRAEComfortCalculator.calculate_comfort(28.0, 78.0)\n    mold = {\"risk_percentage\": 65.0}\n    latest = {\"mq135_avg\": 1500.0, \"humidity_dht11_avg\": 78.0, \"temperature_ds18b20_avg\": 28.0}\n    actions = PrescriptiveActionEngine.generate_recommendations(health, comfort, mold, latest)\n    assert len(actions) > 0\n    assert any(a[\"severity\"] == \"CRITICAL\" for a in actions)",
+        "detail": "ml-platform.tests.test_analytics",
+        "documentation": {}
+    },
+    {
+        "label": "sample_telemetry_df",
+        "kind": 2,
+        "importPath": "ml-platform.tests.test_pipeline",
+        "description": "ml-platform.tests.test_pipeline",
+        "peekOfCode": "def sample_telemetry_df():\n    timestamps = pd.date_range(end=pd.Timestamp.now(), periods=100, freq=\"1min\")\n    df = pd.DataFrame({\n        \"device_id\": 1,\n        \"time_bucket\": timestamps,\n        \"temperature_ds18b20_avg\": 24.5 + np.sin(np.linspace(0, 10, 100)),\n        \"temperature_dht11_avg\": 24.2 + np.sin(np.linspace(0, 10, 100)),\n        \"temperature_tmp36_avg\": 24.0 + np.sin(np.linspace(0, 10, 100)),\n        \"humidity_dht11_avg\": 55.0 + np.cos(np.linspace(0, 10, 100)),\n        \"mq135_avg\": 140.0 + np.random.normal(0, 2, 100),",
+        "detail": "ml-platform.tests.test_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "test_feature_engineering",
+        "kind": 2,
+        "importPath": "ml-platform.tests.test_pipeline",
+        "description": "ml-platform.tests.test_pipeline",
+        "peekOfCode": "def test_feature_engineering(sample_telemetry_df):\n    pipeline = FeatureEngineeringPipeline()\n    feat_df = pipeline.generate_features(sample_telemetry_df)\n    assert not feat_df.empty\n    assert \"temperature_ds18b20_avg_lag_1m\" in feat_df.columns\n    assert \"mq135_avg_roll_mean_5m\" in feat_df.columns\n    assert \"temp_disagreement_ds_dht\" in feat_df.columns\ndef test_dataset_builder(sample_telemetry_df):\n    builder = SupervisedDatasetBuilder()\n    X, y, cols = builder.build_dataset(sample_telemetry_df, target_col=\"mq135_avg\", horizon_steps=5)",
+        "detail": "ml-platform.tests.test_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "test_dataset_builder",
+        "kind": 2,
+        "importPath": "ml-platform.tests.test_pipeline",
+        "description": "ml-platform.tests.test_pipeline",
+        "peekOfCode": "def test_dataset_builder(sample_telemetry_df):\n    builder = SupervisedDatasetBuilder()\n    X, y, cols = builder.build_dataset(sample_telemetry_df, target_col=\"mq135_avg\", horizon_steps=5)\n    assert not X.empty\n    assert len(X) == len(y)\ndef test_time_series_split(sample_telemetry_df):\n    builder = SupervisedDatasetBuilder()\n    X, y, _ = builder.build_dataset(sample_telemetry_df, target_col=\"mq135_avg\", horizon_steps=5)\n    splitter = TimeSeriesSplitter(train_ratio=0.7, val_ratio=0.15)\n    X_tr, y_tr, X_v, y_v, X_te, y_te = splitter.split(X, y)",
+        "detail": "ml-platform.tests.test_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "test_time_series_split",
+        "kind": 2,
+        "importPath": "ml-platform.tests.test_pipeline",
+        "description": "ml-platform.tests.test_pipeline",
+        "peekOfCode": "def test_time_series_split(sample_telemetry_df):\n    builder = SupervisedDatasetBuilder()\n    X, y, _ = builder.build_dataset(sample_telemetry_df, target_col=\"mq135_avg\", horizon_steps=5)\n    splitter = TimeSeriesSplitter(train_ratio=0.7, val_ratio=0.15)\n    X_tr, y_tr, X_v, y_v, X_te, y_te = splitter.split(X, y)\n    assert len(X_tr) + len(X_v) + len(X_te) == len(X)\ndef test_model_trainer_and_registry(sample_telemetry_df, tmp_path):\n    builder = SupervisedDatasetBuilder()\n    X, y, cols = builder.build_dataset(sample_telemetry_df, target_col=\"mq135_avg\", horizon_steps=5)\n    trainer = ModelTrainer()",
+        "detail": "ml-platform.tests.test_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "test_model_trainer_and_registry",
+        "kind": 2,
+        "importPath": "ml-platform.tests.test_pipeline",
+        "description": "ml-platform.tests.test_pipeline",
+        "peekOfCode": "def test_model_trainer_and_registry(sample_telemetry_df, tmp_path):\n    builder = SupervisedDatasetBuilder()\n    X, y, cols = builder.build_dataset(sample_telemetry_df, target_col=\"mq135_avg\", horizon_steps=5)\n    trainer = ModelTrainer()\n    model, duration = trainer.train_linear_regression(X, y)\n    evaluator = MetricsEvaluator()\n    preds = model.predict(X)\n    metrics = evaluator.evaluate(y, preds)\n    assert \"mae\" in metrics\n    assert \"rmse\" in metrics",
+        "detail": "ml-platform.tests.test_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "test_anomaly_detection_engine",
+        "kind": 2,
+        "importPath": "ml-platform.tests.test_pipeline",
+        "description": "ml-platform.tests.test_pipeline",
+        "peekOfCode": "def test_anomaly_detection_engine(sample_telemetry_df):\n    engine = AnomalyDetectionEngine()\n    # Normal data check\n    anomalies = engine.detect_anomalies(sample_telemetry_df)\n    assert isinstance(anomalies, list)\n    # Spike test case\n    spiked_df = sample_telemetry_df.copy()\n    spiked_df.loc[spiked_df.index[-1], \"mq135_avg\"] = 1200.0  # Hazardous\n    spiked_anomalies = engine.detect_anomalies(spiked_df)\n    assert len(spiked_anomalies) > 0",
+        "detail": "ml-platform.tests.test_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "HyperparameterTuner",
+        "kind": 6,
+        "importPath": "ml-platform.training.hyperparameter_tuner",
+        "description": "ml-platform.training.hyperparameter_tuner",
+        "peekOfCode": "class HyperparameterTuner:\n    def __init__(self):\n        pass\n    def tune_random_forest(self, X_train: pd.DataFrame, y_train: pd.Series, n_iter: int = 5):\n        logger.info(\"Tuning Random Forest Hyperparameters via RandomizedSearchCV...\")\n        rf = RandomForestRegressor(random_state=42)\n        param_grid = PARAM_GRIDS[\"random_forest\"]\n        search = RandomizedSearchCV(\n            rf, param_distributions=param_grid, n_iter=n_iter, cv=3, scoring=\"neg_mean_absolute_error\", random_state=42, n_jobs=-1\n        )",
+        "detail": "ml-platform.training.hyperparameter_tuner",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.training.hyperparameter_tuner",
+        "description": "ml-platform.training.hyperparameter_tuner",
+        "peekOfCode": "logger = logging.getLogger(\"ml_platform.hyperparameter_tuner\")\nclass HyperparameterTuner:\n    def __init__(self):\n        pass\n    def tune_random_forest(self, X_train: pd.DataFrame, y_train: pd.Series, n_iter: int = 5):\n        logger.info(\"Tuning Random Forest Hyperparameters via RandomizedSearchCV...\")\n        rf = RandomForestRegressor(random_state=42)\n        param_grid = PARAM_GRIDS[\"random_forest\"]\n        search = RandomizedSearchCV(\n            rf, param_distributions=param_grid, n_iter=n_iter, cv=3, scoring=\"neg_mean_absolute_error\", random_state=42, n_jobs=-1",
+        "detail": "ml-platform.training.hyperparameter_tuner",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingPipelineRunner",
+        "kind": 6,
+        "importPath": "ml-platform.training.pipeline_runner",
+        "description": "ml-platform.training.pipeline_runner",
+        "peekOfCode": "class TrainingPipelineRunner:\n    def __init__(self):\n        self.db_loader = DataLoader()\n        self.dataset_builder = SupervisedDatasetBuilder()\n        self.eda_reporter = EDAReporter()\n        self.splitter = TimeSeriesSplitter()\n        self.trainer = ModelTrainer()\n        self.tuner = HyperparameterTuner()\n        self.evaluator = MetricsEvaluator()\n        self.registry = ModelRegistry()",
+        "detail": "ml-platform.training.pipeline_runner",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.training.pipeline_runner",
+        "description": "ml-platform.training.pipeline_runner",
+        "peekOfCode": "logger = logging.getLogger(\"ml_platform.pipeline_runner\")\nlogging.basicConfig(level=logging.INFO)\nclass TrainingPipelineRunner:\n    def __init__(self):\n        self.db_loader = DataLoader()\n        self.dataset_builder = SupervisedDatasetBuilder()\n        self.eda_reporter = EDAReporter()\n        self.splitter = TimeSeriesSplitter()\n        self.trainer = ModelTrainer()\n        self.tuner = HyperparameterTuner()",
+        "detail": "ml-platform.training.pipeline_runner",
+        "documentation": {}
+    },
+    {
+        "label": "TimeSeriesSplitter",
+        "kind": 6,
+        "importPath": "ml-platform.training.time_split",
+        "description": "ml-platform.training.time_split",
+        "peekOfCode": "class TimeSeriesSplitter:\n    def __init__(self, train_ratio: float = 0.70, val_ratio: float = 0.15):\n        self.train_ratio = train_ratio\n        self.val_ratio = val_ratio\n    def split(self, X: pd.DataFrame, y: pd.Series):\n        \"\"\"\n        Performs a strictly chronological time-series split (Train / Val / Test)\n        without random shuffling to prevent time-series data leakage.\n        \"\"\"\n        n = len(X)",
+        "detail": "ml-platform.training.time_split",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.training.time_split",
+        "description": "ml-platform.training.time_split",
+        "peekOfCode": "logger = logging.getLogger(\"ml_platform.time_split\")\nclass TimeSeriesSplitter:\n    def __init__(self, train_ratio: float = 0.70, val_ratio: float = 0.15):\n        self.train_ratio = train_ratio\n        self.val_ratio = val_ratio\n    def split(self, X: pd.DataFrame, y: pd.Series):\n        \"\"\"\n        Performs a strictly chronological time-series split (Train / Val / Test)\n        without random shuffling to prevent time-series data leakage.\n        \"\"\"",
+        "detail": "ml-platform.training.time_split",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainer",
+        "kind": 6,
+        "importPath": "ml-platform.training.trainers",
+        "description": "ml-platform.training.trainers",
+        "peekOfCode": "class ModelTrainer:\n    def __init__(self):\n        pass\n    def train_linear_regression(self, X_train: pd.DataFrame, y_train: pd.Series):\n        \"\"\"\n        Baseline Model: Linear Regression\n        \"\"\"\n        logger.info(\"Training Linear Regression Baseline Model...\")\n        start_time = time.time()\n        model = LinearRegression()",
+        "detail": "ml-platform.training.trainers",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ml-platform.training.trainers",
+        "description": "ml-platform.training.trainers",
+        "peekOfCode": "logger = logging.getLogger(\"ml_platform.trainers\")\nclass ModelTrainer:\n    def __init__(self):\n        pass\n    def train_linear_regression(self, X_train: pd.DataFrame, y_train: pd.Series):\n        \"\"\"\n        Baseline Model: Linear Regression\n        \"\"\"\n        logger.info(\"Training Linear Regression Baseline Model...\")\n        start_time = time.time()",
+        "detail": "ml-platform.training.trainers",
+        "documentation": {}
+    },
+    {
+        "label": "train_cmd",
+        "kind": 2,
+        "importPath": "ml-platform.manage",
+        "description": "ml-platform.manage",
+        "peekOfCode": "def train_cmd(args):\n    print(f\"🚀 Triggering model training pipeline (Horizon: {args.horizon}m)...\")\n    runner = TrainingPipelineRunner()\n    targets = [args.target] if args.target else [\"temperature_ds18b20_avg\", \"humidity_dht11_avg\", \"mq135_avg\"]\n    for target in targets:\n        res = runner.run_pipeline(target_name=target, horizon_steps=args.horizon, tune_hyperparams=args.tune)\n        print(f\"\\n✅ Target: {target}\")\n        print(f\"   Selected Model: {res['selected_model']}\")\n        print(f\"   Version Tag:    {res['version']}\")\n        print(f\"   Evaluation MAE: {res['best_metrics']['mae']}\")",
+        "detail": "ml-platform.manage",
+        "documentation": {}
+    },
+    {
+        "label": "predict_cmd",
+        "kind": 2,
+        "importPath": "ml-platform.manage",
+        "description": "ml-platform.manage",
+        "peekOfCode": "def predict_cmd(args):\n    print(f\"🔮 Executing real-time prediction for target '{args.target}'...\")\n    predictor = PredictorService()\n    res = predictor.predict(target_name=args.target, device_id=args.device, horizon_minutes=args.horizon)\n    print(json.dumps(res, indent=2))\ndef status_cmd(args):\n    print(\"📊 Current Production Model Registry Status:\")\n    registry = ModelRegistry()\n    targets = [\"temperature_ds18b20_avg\", \"humidity_dht11_avg\", \"mq135_avg\"]\n    for target in targets:",
+        "detail": "ml-platform.manage",
+        "documentation": {}
+    },
+    {
+        "label": "status_cmd",
+        "kind": 2,
+        "importPath": "ml-platform.manage",
+        "description": "ml-platform.manage",
+        "peekOfCode": "def status_cmd(args):\n    print(\"📊 Current Production Model Registry Status:\")\n    registry = ModelRegistry()\n    targets = [\"temperature_ds18b20_avg\", \"humidity_dht11_avg\", \"mq135_avg\"]\n    for target in targets:\n        _, meta = registry.load_latest_model(target)\n        if meta:\n            print(f\"\\n• Target: {target}\")\n            print(f\"  Version Tag: {meta['version']}\")\n            print(f\"  MAE Metric:  {meta['metrics'].get('mae', 'N/A')}\")",
+        "detail": "ml-platform.manage",
+        "documentation": {}
+    },
+    {
+        "label": "anomalies_cmd",
+        "kind": 2,
+        "importPath": "ml-platform.manage",
+        "description": "ml-platform.manage",
+        "peekOfCode": "def anomalies_cmd(args):\n    print(\"⚠️ Executing 4-Layer Anomaly Detection Engine...\")\n    loader = DataLoader()\n    raw_df = loader.load_recent_window(device_id=args.device, minutes=120)\n    engine = AnomalyDetectionEngine()\n    detected = engine.detect_anomalies(raw_df)\n    print(f\"\\nDetected {len(detected)} anomaly events:\")\n    for a in detected:\n        print(f\" [{a['severity']}] Layer: {a['layer']} | {a['explanation']}\")\ndef main():",
+        "detail": "ml-platform.manage",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "ml-platform.manage",
+        "description": "ml-platform.manage",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description=\"AI & Machine Learning Operational Management CLI\")\n    subparsers = parser.add_subparsers(dest=\"command\", required=True)\n    # Train command\n    train_parser = subparsers.add_parser(\"train\", help=\"Train and register ML models\")\n    train_parser.add_argument(\"--target\", type=str, help=\"Specific target (temperature_ds18b20_avg, humidity_dht11_avg, mq135_avg)\")\n    train_parser.add_argument(\"--horizon\", type=int, default=10, help=\"Prediction horizon in minutes\")\n    train_parser.add_argument(\"--tune\", action=\"store_true\", help=\"Perform hyperparameter tuning\")\n    train_parser.set_defaults(func=train_cmd)\n    # Predict command",
+        "detail": "ml-platform.manage",
+        "documentation": {}
+    }
+]

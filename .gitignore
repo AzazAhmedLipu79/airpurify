@@ -1,0 +1,9 @@
+node_modules/
+logs/*.log
+!logs/.gitkeep
+.env
+coverage/
+.DS_Store
+ml-platform/venv/
+ml-platform/models/*.joblib
+ml-platform/__pycache__/

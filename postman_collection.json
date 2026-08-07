@@ -1,0 +1,101 @@
+{
+  "info": {
+    "name": "IoT Air Quality Monitoring Platform API",
+    "description": "Postman Collection for testing the Air Quality Monitoring Backend API endpoints.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "baseUrl", "value": "http://localhost:3000/api/v1" },
+    { "key": "authToken", "value": "" }
+  ],
+  "item": [
+    {
+      "name": "Authentication",
+      "item": [
+        {
+          "name": "Login Admin",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"usernameOrEmail\": \"admin@airquality.io\",\n  \"password\": \"Password123!\"\n}"
+            },
+            "url": { "raw": "{{baseUrl}}/auth/login" }
+          }
+        },
+        {
+          "name": "Register User",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"username\": \"field_operator\",\n  \"email\": \"op@airquality.io\",\n  \"password\": \"Password123!\",\n  \"role\": \"operator\"\n}"
+            },
+            "url": { "raw": "{{baseUrl}}/auth/register" }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Telemetry Ingestion",
+      "item": [
+        {
+          "name": "Ingest Batch Telemetry",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"device_uid\": \"DEV-NODE-001\",\n  \"readings\": [\n    { \"metric\": \"temperature_ds18b20\", \"value\": 23.8, \"unit\": \"C\", \"sequence_number\": 101 },\n    { \"metric\": \"humidity_dht11\", \"value\": 55.4, \"unit\": \"%\", \"sequence_number\": 101 },\n    { \"metric\": \"mq135\", \"value\": 142.0, \"unit\": \"ppm\", \"sequence_number\": 101 }\n  ]\n}"
+            },
+            "url": { "raw": "{{baseUrl}}/telemetry" }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dashboard & Analytics",
+      "item": [
+        {
+          "name": "Get Dashboard Overview",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{authToken}}" }],
+            "url": { "raw": "{{baseUrl}}/dashboard/overview" }
+          }
+        },
+        {
+          "name": "Get Historical Analytics",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{authToken}}" }],
+            "url": { "raw": "{{baseUrl}}/analytics/historical?interval=1min" }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Devices & Health",
+      "item": [
+        {
+          "name": "List Devices",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{authToken}}" }],
+            "url": { "raw": "{{baseUrl}}/devices" }
+          }
+        },
+        {
+          "name": "Get Device Health",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{authToken}}" }],
+            "url": { "raw": "{{baseUrl}}/health/devices/1" }
+          }
+        }
+      ]
+    }
+  ]
+}
